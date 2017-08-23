@@ -1,0 +1,8 @@
+ru:
+  uploader:
+    button: "Выберите файл"
+    drop: "Перетащите файл сюда"
+    or: "или"
+    confirm_delete: "Are you sure?"
+    access_denied:
+      message: 'Access denied'
